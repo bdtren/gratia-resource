@@ -1,1 +1,1 @@
-This is resource data for gratia app
+This is resource data for gratia app.
